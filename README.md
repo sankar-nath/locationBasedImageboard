@@ -1,3 +1,18 @@
+This is a fork of Maniwani. I will attempt to create a location based imageboard "Nearchan" using maniwani.
+
+How to deploy nearchan?
+
+* Use terraform code within the terraformCode folder to deploy a ec2 instance on AWS.
+* Use docker to build the image and then run the docker container on the ec2 instance
+* nearchan will be available on the PUBLIC IP of the ec2 instance
+
+Future Features planned
+* Add a "Sort by Distance" option on the board catalog.
+* New posts on the baord will have the option of adding location
+* Users will be able to sort posts by distance from their location
+* Users should be able to view posts as an overlay over a Map, filter by board.
+
+
 Maniwani - an anonymous imageboard for the 21st century
 =======================================================
 
