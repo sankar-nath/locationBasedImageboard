@@ -1,3 +1,6 @@
+Nearchan - an anonymous location based imageboard
+=======================================================
+
 This is a fork of Maniwani. I will attempt to create a location based imageboard "Nearchan" using maniwani.
 
 How to deploy nearchan?
